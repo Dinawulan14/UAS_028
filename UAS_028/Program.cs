@@ -107,3 +107,19 @@ namespace UAS_028
             }
         }
     }
+
+
+//JAWAB
+// 2. - Algoritma insertion sort = memilah data yang akan diurutkan menjadi 2 bagian, yang belum dan sudah. Saya menggunakannya karena ini dugunaka untuk pengsortiran
+//Algoritma bsearch = untuk mengurutkan
+
+//3. a. PUSH = proses memasukkan elemen baru di atas tumpukan /stack
+//b. POP = proses menghapus elemen dari atas tumpukan / stack
+
+//4. Algoritma Queue merupakan struktur data dimana satu data dapat ditambakan diakhir disebut Rear dan data dihapus dari yang paling terkahir disebut Front
+
+//5. a. 5
+
+//b. – InOrder = kunjungi kiri node, cetak isi (data) node yang dikunjungi, kunjungi kanan node
+//- PreOrder = cetak isi (data) node, kunjungi kiri node, kunjungi kanan node
+//- PostOrder = kunjungi kiri node, kunjungi kanan node, cetak isi (data)
